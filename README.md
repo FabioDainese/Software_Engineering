@@ -22,7 +22,7 @@ If you want to know more about this project you should take a look at the follow
 **N.B.** The docs are written in Italian.
 
 # Screenshots
-![](./Documentation/Images/home.png)  |  ![](./Documentation/Images/specific-city.png)
+<img src="/Documentation/Images/home.png" width="200" alt="Home">  <img src="/Documentation/Images/specific-city.png" width="200" alt="Specific city">  <img src="/Documentation/Images/specific-city-details.png" width="200" alt="Specific city details">  <img src="/Documentation/Images/specific-city-graphs.png" width="200" alt="Specific city graphs">
 
 # License
 The material is available under the [GNU license](https://github.com/FabioDainese/Software_Engineering/blob/master/LICENSE).
