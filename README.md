@@ -21,5 +21,8 @@ If you want to know more about this project you should take a look at the follow
 
 **N.B.** The docs are written in Italian.
 
+# Screenshots
+![](./Documentation/Images/home.png)  |  ![](./Documentation/Images/specific-city.png)
+
 # License
 The material is available under the [GNU license](https://github.com/FabioDainese/Software_Engineering/blob/master/LICENSE).
